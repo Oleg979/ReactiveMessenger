@@ -1,2 +1,2 @@
 # ReactiveMessenger
-Simple SPA for messagin built using ReactJS
+Simple SPA for messaging built using ReactJS
